@@ -1,3 +1,4 @@
+console.log(sumOfFuntions)
 var x = firstFunction(2,3);
 var y = secondFunction(4,5);
 var z = thirdFunction(6,7);
