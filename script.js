@@ -1,4 +1,4 @@
-console.log(sumOfFuntions)
+console.log(x*y*z)
 var x = firstFunction;
 var y = secondFunction;
 var z = thirdFunction;
@@ -11,7 +11,4 @@ function secondFunction (4,5) {
 }
 function thirdFunction (6,7) {
 	return 6 + 7
-}
-function sumOfFuntions (x,y,z) {
-	return x + y + z
 }
