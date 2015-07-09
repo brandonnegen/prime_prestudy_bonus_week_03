@@ -1,11 +1,11 @@
 console.log(firstFunction(secondFunction(thirdFunction(2))))
 
 function firstFunction (2,3) {
-	return a + b
+	return 2 + 3
 }
 function secondFunction (4,5) {
-	return	a + b
+	return	4 + 5
 }
 function thirdFunction (6,7) {
-	return a + b
+	return 6 + 6
 }
