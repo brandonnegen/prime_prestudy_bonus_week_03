@@ -1,14 +1,11 @@
-console.log(x*y*z)
-var x = firstFunction(2,3);
-var y = secondFunction,(4,5);
-var z = thirdFunction(6,7);
+console.log(firstFunction(secondFunction(thirdFunction(2))))
 
-function firstFunction (a,b) {
+function firstFunction (2,3) {
 	return a + b
 }
-function secondFunction (a,b) {
+function secondFunction (4,5) {
 	return	a + b
 }
-function thirdFunction (a,b) {
+function thirdFunction (6,7) {
 	return a + b
 }
