@@ -7,5 +7,5 @@ function secondFunction (4,5) {
 	return	4 + 5
 }
 function thirdFunction (6,7) {
-	return 6 + 6
+	return 6 + 7
 }
